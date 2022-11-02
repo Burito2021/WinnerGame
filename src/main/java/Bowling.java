@@ -32,6 +32,8 @@ public class Bowling {
 
         System.out.println(maxEntry);
 
+        System.out.println("maxEntry");
+
 
 
 
