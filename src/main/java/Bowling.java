@@ -30,7 +30,7 @@ public class Bowling {
         }
         System.out.println(maxEntry.getKey());
 
-
+        System.out.println(maxEntry);
 
 
 
